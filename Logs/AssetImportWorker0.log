@@ -1,0 +1,83 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/atacan/IEEE CS
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54737
+Successfully changed project path to: /Users/atacan/IEEE CS
+/Users/atacan/IEEE CS
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 62.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/atacan/IEEE CS/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-21 06:54:37.165 Unity[28102:3375615] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
+2021-05-21 06:54:37.165 Unity[28102:3375615] Metal devices available: 2
+2021-05-21 06:54:37.165 Unity[28102:3375615] 0: AMD Radeon Pro 560X (high power)
+2021-05-21 06:54:37.165 Unity[28102:3375615] 1: Intel(R) UHD Graphics 630 (low power)
+2021-05-21 06:54:37.165 Unity[28102:3375615] Using device AMD Radeon Pro 560X (high power)
+Initializing Metal device caps: AMD Radeon Pro 560X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56102
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002224 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 56.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.622 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001193 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 67.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1944 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.4 MB.
+System memory in use after: 157.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2385.
+Total: 2.825269 ms (FindLiveObjects: 0.249735 ms CreateObjectMapping: 0.097795 ms MarkObjects: 2.333308 ms  DeleteObjects: 0.143381 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/PaperGirl/FinishController.cs
+  artifactKey: Guid(2f47b6b62a53a794aa7c2e2b6c964ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PaperGirl/FinishController.cs using Guid(2f47b6b62a53a794aa7c2e2b6c964ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f11632c933c92961040e79ce26cb912') in 0.426695 seconds
+  Import took 0.433641 seconds .
+
